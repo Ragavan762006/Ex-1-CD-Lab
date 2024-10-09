@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-## Name:Ragavan
-# Register number: 212223040160
+# Name:Ragavan
+## Register number: 212223040160
 
 # AIM :
 ## To write a C program to implement a symbol table.
