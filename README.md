@@ -1,5 +1,5 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Name:Ragavan
+# Name:Ragavan E
 ## Register number: 212223040160
 
 # AIM :
